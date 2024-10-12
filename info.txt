@@ -1,0 +1,9 @@
+Administrador:
+
+admin
+admin
+
+Usuario Registrado:
+
+user@mail.com	
+user
